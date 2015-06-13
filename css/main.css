@@ -774,3 +774,7 @@ button:focus {
 		transform: translate3d(0, 40vh, 0);
 	}
 }
+
+.info {
+    padding-left: 10%;
+}
